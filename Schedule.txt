@@ -1,0 +1,15 @@
+LS-114        Islamabad   lahore         12:00        13:00        
+LS-117        Peshawar    Rawalpindi     11:00        13:00        
+LS-123        Karachi     Quetta         00:00        04:00        
+LS-156        Karachi     Lahore         18:00        21:00        
+LS-165        Karachi     Hyderabad      17:00        21:00        
+LS-122        Dubai       Karachi        12:30        13:30        
+LS-111        Karachi     Toronto        17:00        18:30        
+LS-115        Karachi     Jeddah         14:00        16:00        
+LS-110        Lahore      Riyadh         10:00        13:00        
+LS-112        Lahore      Karachi        06:00        11:00        
+LS-116        Rawalpindi  Lahore         20:00        23:00        
+LS-187        Karachi     Islamabad      15:00        18:00        
+LS-128        Islamabad   Quetta         09:00        13:00        
+LS-186        Karachi     Sydney         04:00        07:00        
+LS-423        Dubai       Karachi        13:00        17:00      
